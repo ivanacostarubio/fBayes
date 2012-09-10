@@ -4,8 +4,9 @@ puts "*" * 100
 puts "SR24 CLASSIFIER:"
 puts "*" * 100
 
-categories_path = Dir["./data/sr24/data/*"]
-@categories = categories_path.map{|path| path.gsub("./data/sr24/data/", "")}
+categories_path =  Dir["./lib/data/sr24/data/*"]
+
+@categories = categories_path.map{|path| path.gsub("./lib/data/sr24/data/", "")}
 
 @sr24_classifier = Classifier::Bayes.new 
 
@@ -18,7 +19,7 @@ total_size = 0
 
 @categories.each do |category|
   method = "train_" + category.downcase
-  data = File.read("./data/sr24/data/#{category}")
+  data = File.read("./lib/data/sr24/data/#{category}")
   puts category +": " + data.size.to_s
   @sr24_classifier.send(method, data)
   total_size += data.size.to_i
