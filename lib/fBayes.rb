@@ -10,7 +10,6 @@ module FBayesDir
   end
 
   def self.sr24_data
-
     self.root + "/sr24/data/"
   end
 end

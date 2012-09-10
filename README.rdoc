@@ -5,12 +5,7 @@ A Naive Bayes Approach to telling what category certain ingredients belong.
 
 == Usage:
 
-require 'global_classifier'
-
-
-@sr24_classifier.classify 'wiskey' 
-
-Enjoy!
+  require 'fBayes'
 
 
 == Contributing to fBayes
