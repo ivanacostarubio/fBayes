@@ -91,6 +91,7 @@ Gem::Specification.new do |s|
     "data/sr24/rawData/SRC_CD.txt",
     "data/sr24/rawData/WEIGHT.txt",
     "data/sr24/rawData/sr24_doc.pdf",
+    "fBayes.gemspec",
     "global_classifier.rb",
     "lib/fBayes.rb",
     "spec/clasificador_spec.rb",
