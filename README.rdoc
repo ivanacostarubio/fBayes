@@ -7,6 +7,14 @@ A Naive Bayes Approach to telling what category certain ingredients belong.
 
   require 'fBayes'
 
+  @sr24_classifier.classify("cucumber")
+  => "Vegetables-and-vegetable-products" 
+
+  @sr24_classifier.classify("steak")
+  => "Beef-products" 
+
+
+
 
 == Contributing to fBayes
  
