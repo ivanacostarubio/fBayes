@@ -1,0 +1,15 @@
+
+
+####
+#
+# Goal: Tell somebody the % of food clasiffication
+#
+####
+
+
+- We have a set Z that represent the category of a certain aliment.
+- Given a set a string ingredients or food names
+- % of food distribution on each category of meal in the set Z
+
+
+
