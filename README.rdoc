@@ -1,19 +1,37 @@
 = fBayes
 
-Description goes here.
+A Naive Bayes Approach to telling what category certain ingredients belong. 
+
+
+== Usage:
+
+require 'global_classifier'
+
+
+@sr24_classifier.classify 'wiskey' 
+
+Enjoy!
+
 
 == Contributing to fBayes
  
-* Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
-* Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
-* Fork the project.
-* Start a feature/bugfix branch.
-* Commit and push until you are happy with your contribution.
-* Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
-* Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
+* Hack like there is no tomorrow. 
+
+
+== Initial Goal: 
+
+Tell somebody the % distribution of the categories of certain ingredients or meals.
+
+- We have a set Z that represent the category of a certain ingredient or meal.
+- Given a string ingredients or meal names.
+- % distribution of the category each  meal or ingredient represents.
+
 
 == Copyright
 
-Copyright (c) 2012 Ivan Acosta-Rubio. See LICENSE.txt for
-further details.
+Copyright (c) 2012 Ivan Acosta-Rubio. 
+
+http:www.softwarecriollo.com
+
+http:www.mealsapp.com
 
