@@ -2,11 +2,7 @@
 
 module FBayesDir
   def self.root
-    File.expand_path '../..', __FILE__
-  end
-
-  def self.cdc_data
-    root + "/lib/data/cdc/data/"
+    Gem::Specification.find_by_name("fBayes").gem_dir + "/lib/data/"
   end
 end
 

@@ -11,8 +11,8 @@ puts "*" * 100
 puts "CDC CLASSIFIER"
 puts "*" * 100
 
-categories_path = Dir[ FBayesDir.root + "/data/*"]
-categories = categories_path.map{|path| path.gsub(FBayesDir.root + "/data/", "")}
+categories_path = Dir[ FBayesDir.root + "/cdc/data/*"]
+categories = categories_path.map{|path| path.gsub(FBayesDir.root + "/cdc/data/", "")}
 @cdc_classifier = Classifier::Bayes.new 
 
 categories.each do |c|
@@ -24,7 +24,7 @@ total_size = 0
 
 categories.each do |category|
   method = "train_" + category.downcase
-  data = File.read( FBayesDir.root + "/data/#{category}")
+  data = File.read( FBayesDir.root + "/cdc/data/#{category}")
 
 
   puts category +": " + data.size.to_s
