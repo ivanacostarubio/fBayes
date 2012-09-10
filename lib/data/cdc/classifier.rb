@@ -11,8 +11,8 @@ puts "*" * 100
 puts "CDC CLASSIFIER"
 puts "*" * 100
 
-categories_path = Dir[ FBayesDir.root + "/data/"]
-categories = categories_path.map{|path| path.gsub(FBayesDir.cdc_data + "*", "")}
+categories_path = Dir[ FBayesDir.root + "/data/*"]
+categories = categories_path.map{|path| path.gsub(FBayesDir.root + "/data/", "")}
 @cdc_classifier = Classifier::Bayes.new 
 
 categories.each do |c|
