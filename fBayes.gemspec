@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = "fBayes"
-  s.version = "0.1.2"
+  s.version = "0.1.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ivan Acosta-Rubio"]
@@ -79,19 +79,8 @@ Gem::Specification.new do |s|
     "lib/data/sr24/data/spices-and-herbs",
     "lib/data/sr24/data/sweets",
     "lib/data/sr24/data/vegetables-and-vegetable-products",
-    "lib/data/sr24/rawData/DATA_SRC.txt",
-    "lib/data/sr24/rawData/DATSRCLN.txt",
-    "lib/data/sr24/rawData/DERIV_CD.txt",
+    "lib/data/sr24/rawData/.DS_Store",
     "lib/data/sr24/rawData/Dats_Src.pdf",
-    "lib/data/sr24/rawData/FD_GROUP.txt",
-    "lib/data/sr24/rawData/FOOD_DES.txt",
-    "lib/data/sr24/rawData/FOOTNOTE.txt",
-    "lib/data/sr24/rawData/LANGDESC.txt",
-    "lib/data/sr24/rawData/LANGUAL.txt",
-    "lib/data/sr24/rawData/NUTR_DEF.txt",
-    "lib/data/sr24/rawData/NUT_DATA.txt",
-    "lib/data/sr24/rawData/SRC_CD.txt",
-    "lib/data/sr24/rawData/WEIGHT.txt",
     "lib/data/sr24/rawData/sr24_doc.pdf",
     "lib/fBayes.rb",
     "lib/global_classifier.rb",
