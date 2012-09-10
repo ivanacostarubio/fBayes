@@ -34,5 +34,3 @@ categories.each do |category|
 end
 
 puts "TOTAL SIZE: #{total_size}"
-
-
