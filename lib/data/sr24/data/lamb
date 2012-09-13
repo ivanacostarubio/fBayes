@@ -85,32 +85,32 @@ Lamb New Zealand imported frozen
 Lamb New Zealand imported frozen
 Lamb New Zealand imported frozen
 Lamb New Zealand imported frozen
-Veal composite of trimmed retail cuts separable lean and fat raw^VEAL
-Veal composite of trimmed retail cuts separable lean and fat cooked^VEAL
-Veal composite of trimmed retail cuts separable lean only raw^VEAL
-Veal composite of trimmed retail cuts separable lean only cooked^VEAL
-Veal composite of trimmed retail cuts separable fat raw^VEAL
-Veal composite of trimmed retail cuts separable fat cooked^VEAL
-Veal leg (top round) separable lean and fat raw^VEAL
+Veal composite of trimmed retail cuts separable lean and fat raw VEAL
+Veal composite of trimmed retail cuts separable lean and fat cooked VEAL
+Veal composite of trimmed retail cuts separable lean only raw VEAL
+Veal composite of trimmed retail cuts separable lean only cooked VEAL
+Veal composite of trimmed retail cuts separable fat raw VEAL
+Veal composite of trimmed retail cuts separable fat cooked VEAL
+Veal leg (top round) separable lean and fat raw VEAL
 Veal leg (top round) separable lean and fat cooked
 Veal leg (top round) separable lean and fat cooked
 Veal leg (top round) separable lean and fat cooked
 Veal leg (top round) separable lean and fat cooked
-Veal leg (top round) separable lean only raw^VEAL
+Veal leg (top round) separable lean only raw VEAL
 Veal leg (top round) separable lean only cooked
 Veal leg (top round) separable lean only cooked
 Veal leg (top round) separable lean only cooked
 Veal leg (top round) separable lean only cooked
-Veal loin separable lean and fat raw^VEAL
+Veal loin separable lean and fat raw VEAL
 Veal loin separable lean and fat cooked
 Veal loin separable lean and fat cooked
-Veal loin separable lean only raw^VEAL
+Veal loin separable lean only raw VEAL
 Veal loin separable lean only cooked
 Veal loin separable lean only cooked
-Veal rib separable lean and fat raw^VEAL
+Veal rib separable lean and fat raw VEAL
 Veal rib separable lean and fat cooked
 Veal rib separable lean and fat cooked
-Veal rib separable lean only raw^VEAL
+Veal rib separable lean only raw VEAL
 Veal rib separable lean only cooked
 Veal rib separable lean only cooked
 Veal shoulder whole (arm and blade) separable lean and fat
@@ -131,96 +131,96 @@ Veal shoulder blade separable lean and fat
 Veal shoulder blade separable lean only
 Veal shoulder blade separable lean only
 Veal shoulder blade separable lean only
-Veal sirloin separable lean and fat raw^VEAL
+Veal sirloin separable lean and fat raw VEAL
 Veal sirloin separable lean and fat cooked
 Veal sirloin separable lean and fat cooked
-Veal sirloin separable lean only raw^VEAL
+Veal sirloin separable lean only raw VEAL
 Veal sirloin separable lean only cooked
 Veal sirloin separable lean only cooked
-Veal cubed for stew (leg and shoulder) separable lean only raw^VEAL
+Veal cubed for stew (leg and shoulder) separable lean only raw VEAL
 Veal cubed for stew (leg and shoulder) separable lean only cooked
-Veal ground raw^VEALGROUND
-Veal ground cooked broiled^VEAL
-Game meat antelope raw^GAME MEATANTELOPE
-Game meat antelope cooked roasted^GAME MEAT
-Game meat bear raw^GAME MEATBEAR
-Game meat bear cooked simmered^GAME MEAT
-Bison ground grass-fed cooked^BISON
-Bison ground grass-fed raw^BISON
-Game meat beaver raw^GAME MEATBEAVER
-Game meat beaver cooked roasted^GAME MEAT
-Game meat beefalo composite of cuts raw^GAME MEAT
+Veal ground raw VEALGROUND
+Veal ground cooked broiled VEAL
+Game meat antelope raw GAME MEATANTELOPE
+Game meat antelope cooked roasted GAME MEAT
+Game meat bear raw GAME MEATBEAR
+Game meat bear cooked simmered GAME MEAT
+Bison ground grass-fed cooked BISON
+Bison ground grass-fed raw BISON
+Game meat beaver raw GAME MEATBEAVER
+Game meat beaver cooked roasted GAME MEAT
+Game meat beefalo composite of cuts raw GAME MEAT
 Game meat beefalo composite of cuts cooked
-Game meat bison separable lean only raw^GAME MEAT
+Game meat bison separable lean only raw GAME MEAT
 Game meat bison separable lean only cooked
-Game meat boar wild raw^GAME MEAT
+Game meat boar wild raw GAME MEAT
 Game meat boar wild cooked
-Game meat buffalo water raw^GAME MEAT
+Game meat buffalo water raw GAME MEAT
 Game meat buffalo water cooked
-Game meat caribou raw^GAME MEATCARIBOU
-Game meat caribou cooked roasted^GAME MEAT
-Game meat deer raw^GAME MEATDEER
-Game meat deer cooked roasted^GAME MEAT
-Game meat elk raw^GAME MEATELK
-Game meat elk cooked roasted^GAME MEAT
+Game meat caribou raw GAME MEATCARIBOU
+Game meat caribou cooked roasted GAME MEAT
+Game meat deer raw GAME MEATDEER
+Game meat deer cooked roasted GAME MEAT
+Game meat elk raw GAME MEATELK
+Game meat elk cooked roasted GAME MEAT
 Goat
-Game meat goat cooked roasted^GAME MEAT
-Game meat horse raw^GAME MEATHORSE
-Game meat horse cooked roasted^GAME MEAT
-Game meat moose raw^GAME MEATMOOSE
-Game meat moose cooked roasted^GAME MEAT
-Game meat muskrat raw^GAME MEATMUSKRAT
-Game meat muskrat cooked roasted^GAME MEAT
-Game meat opossum cooked roasted^GAME MEAT
+Game meat goat cooked roasted GAME MEAT
+Game meat horse raw GAME MEATHORSE
+Game meat horse cooked roasted GAME MEAT
+Game meat moose raw GAME MEATMOOSE
+Game meat moose cooked roasted GAME MEAT
+Game meat muskrat raw GAME MEATMUSKRAT
+Game meat muskrat cooked roasted GAME MEAT
+Game meat opossum cooked roasted GAME MEAT
 Game meat rabbit domesticated composite of cuts
 Game meat rabbit domesticated composite of cuts
 Game meat rabbit domesticated composite of cuts
-Game meat rabbit wild raw^GAME MEAT
+Game meat rabbit wild raw GAME MEAT
 Game meat rabbit wild cooked
-Game meat raccoon cooked roasted^GAME MEAT
-Game meat squirrel raw^GAME MEATSQUIRREL
-Game meat squirrel cooked roasted^GAME MEAT
-Lamb variety meats and by-products brain raw^LAMB
+Game meat raccoon cooked roasted GAME MEAT
+Game meat squirrel raw GAME MEATSQUIRREL
+Game meat squirrel cooked roasted GAME MEAT
+Lamb variety meats and by-products brain raw LAMB
 Lamb variety meats and by-products brain cooked
 Lamb variety meats and by-products brain cooked
-Veal variety meats and by-products brain raw^VEAL
+Veal variety meats and by-products brain raw VEAL
 Veal variety meats and by-products brain cooked
 Veal variety meats and by-products brain cooked
-Lamb variety meats and by-products heart raw^LAMB
+Lamb variety meats and by-products heart raw LAMB
 Lamb variety meats and by-products heart cooked
-Veal variety meats and by-products heart raw^VEAL
+Veal variety meats and by-products heart raw VEAL
 Veal variety meats and by-products heart cooked
-Lamb variety meats and by-products kidneys raw^LAMB
+Lamb variety meats and by-products kidneys raw LAMB
 Lamb variety meats and by-products kidneys cooked
-Veal variety meats and by-products kidneys raw^VEAL
+Veal variety meats and by-products kidneys raw VEAL
 Veal variety meats and by-products kidneys cooked
-Lamb variety meats and by-products liver raw^LAMB
+Lamb variety meats and by-products liver raw LAMB
 Lamb variety meats and by-products liver cooked
 Lamb variety meats and by-products liver cooked
-Veal variety meats and by-products liver raw^VEAL
+Veal variety meats and by-products liver raw VEAL
 Veal variety meats and by-products liver cooked
 Veal variety meats and by-products liver cooked
-Lamb variety meats and by-products lungs raw^LAMB
+Lamb variety meats and by-products lungs raw LAMB
 Lamb variety meats and by-products lungs cooked
-Veal variety meats and by-products lungs raw^VEAL
+Veal variety meats and by-products lungs raw VEAL
 Veal variety meats and by-products lungs cooked
-Lamb variety meats and by-products mechanically separated raw^LAMB
-Lamb variety meats and by-products pancreas raw^LAMB
+Lamb variety meats and by-products mechanically separated raw LAMB
+Lamb variety meats and by-products pancreas raw LAMB
 Lamb variety meats and by-products pancreas cooked
-Veal variety meats and by-products pancreas raw^VEAL
+Veal variety meats and by-products pancreas raw VEAL
 Veal variety meats and by-products pancreas cooked
-Lamb variety meats and by-products spleen raw^LAMB
+Lamb variety meats and by-products spleen raw LAMB
 Lamb variety meats and by-products spleen cooked
-Veal variety meats and by-products spleen raw^VEAL
+Veal variety meats and by-products spleen raw VEAL
 Veal variety meats and by-products spleen cooked
-Veal variety meats and by-products thymus raw^VEAL
+Veal variety meats and by-products thymus raw VEAL
 Veal variety meats and by-products thymus cooked
-Lamb variety meats and by-products tongue raw^LAMB
+Lamb variety meats and by-products tongue raw LAMB
 Lamb variety meats and by-products tongue cooked
-Veal variety meats and by-products tongue raw^VEAL
+Veal variety meats and by-products tongue raw VEAL
 Veal variety meats and by-products tongue cooked
-Lamb ground raw^LAMBGROUND
-Lamb ground cooked broiled^LAMB
+Lamb ground raw LAMBGROUND
+Lamb ground cooked broiled LAMB
 Lamb domestic composite of trimmed retail cuts separable lean and fat
 Lamb domestic composite of trimmed retail cuts separable lean and fat
 Lamb domestic foreshank separable lean and fat
@@ -264,15 +264,15 @@ Lamb new zealand imported frozen
 Game meat bison top sirloin separable lean only
 Game meat bison ribeye separable lean only
 Game meat bison shoulder clod separable lean only
-Veal breast separable fat cooked^VEAL
+Veal breast separable fat cooked VEAL
 Veal breast whole boneless
 Veal breast whole boneless
 Veal breast plate half boneless
 Veal breast point half boneless
 Veal breast whole boneless
-Veal shank (fore and hind) separable lean and fat raw^VEAL
+Veal shank (fore and hind) separable lean and fat raw VEAL
 Veal shank (fore and hind) separable lean and fat cooked
-Veal shank (fore and hind) separable lean only raw^VEAL
+Veal shank (fore and hind) separable lean only raw VEAL
 Veal shank (fore and hind) separable lean only cooked
 Lamb Australian imported fresh
 Lamb Australian imported fresh
@@ -324,7 +324,7 @@ Lamb Australian imported fresh
 Lamb Australian imported fresh
 Lamb Australian imported fresh
 Lamb Australian imported fresh
-Game meat  bison ground raw^GAME MEAT BISON
+Game meat  bison ground raw GAME MEAT BISON
 Game meat bison ground cooked
 Game meat  bison top sirloin separable lean only
 Game meat bison chuck shoulder clod
@@ -332,12 +332,12 @@ Game meat bison chuck shoulder clod
 Game meat bison ribeye separable lean only
 Game meat bison top round separable lean only
 Game meat bison top round separable lean only
-Game meat elk ground raw^GAME MEAT
+Game meat elk ground raw GAME MEAT
 Game meat elk ground cooked
 Game meat elk loin separable lean only
 Game meat elk round separable lean only
 Game meat elk tenderloin separable lean only
-Game meat deer ground raw^GAME MEAT
+Game meat deer ground raw GAME MEAT
 Game meat deer ground cooked
 Game meat deer loin separable lean only
 Game meat deer shoulder clod separable lean only

@@ -1,28 +1,32 @@
 require 'classifier'
 
 puts "*" * 100
-puts "SR24 CLASSIFIER:"
+puts "InternalTurnk CLASSIFIER:"
 puts "*" * 100
 
 
 
-class USDA
+class InternalTurnk
   attr_accessor :classifier
 
   def initialize
     @classifier = Classifier::Bayes.new 
+    @home_dir = FBayesDir.internal_turnk_data
     add_categories
     train
+    puts @home_dir.inspect
   end
 
 
   def add_categories
-    categories_path =  Dir[ FBayesDir.sr24_data + "*"]
-    @categories = categories_path.map{|path| path.gsub(FBayesDir.sr24_data, "")}
+    categories_path =  Dir[ @home_dir + "*"]
+    @categories = categories_path.map{|path| path.gsub(@home_dir, "")}
 
     @categories.each do |c|
       @classifier.add_category c
     end
+
+    puts @categories.inspect
   end
 
   def train 
@@ -30,7 +34,7 @@ class USDA
 
     @categories.each do |category|
       method = "train_" + category.downcase
-      data = File.read( FBayesDir.sr24_data + category.to_s)
+      data = File.read( @home_dir + category.to_s)
       puts category +": " + data.size.to_s
       @classifier.send(method, data)
       total_size += data.size.to_i
@@ -47,3 +51,5 @@ class USDA
     @classifier.classifications(word)
   end
 end
+
+@it_classifier = InternalTurnk.new

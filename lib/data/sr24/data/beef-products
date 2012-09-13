@@ -1,10 +1,10 @@
 Beef grass-fed strip steaks lean only
 Beef carcass separable lean and fat choice
 Beef carcass separable lean and fat select
-Beef retail cuts separable fat raw^BEEF
-Beef retail cuts separable fat cooked^BEEF
+Beef retail cuts separable fat raw BEEF
+Beef retail cuts separable fat cooked BEEF
 Beef brisket whole separable lean only
-Beef grass-fed ground raw^BEEF
+Beef grass-fed ground raw BEEF
 Beef brisket flat half separable lean and fat
 Beef flank steak separable lean and fat
 Beef flank steak separable lean and fat
@@ -12,10 +12,10 @@ Beef flank steak separable lean and fat
 Beef flank steak separable lean only
 Beef flank steak separable lean only
 Beef flank steak separable lean only
-Beef rib eye small end (ribs 10-12)
-Beef rib eye small end (ribs 10-12)
-Beef rib eye small end (ribs 10-12)
-Beef rib eye small end (ribs 10-12)
+Beef rib eye small end (ribs   -  )
+Beef rib eye small end (ribs   -  )
+Beef rib eye small end (ribs   -  )
+Beef rib eye small end (ribs   -  )
 Beef rib shortribs separable lean and fat
 Beef rib shortribs separable lean and fat
 Beef rib shortribs separable lean only
@@ -23,41 +23,41 @@ Beef rib shortribs separable lean only
 Beef round full cut separable lean only
 Beef round full cut separable lean only
 Beef brisket flat half separable lean and fat
-USDA Commodity beef canned^USDA CMDTYBF
-Beef shank crosscuts separable lean only trimmed to 1/4' fat
-Beef shank crosscuts separable lean only trimmed to 1/4' fat
-Beef rib eye small end (ribs 10-12) separable lean only
+USDA Commodity beef canned USDA CMDTYBF
+Beef shank crosscuts separable lean only trimmed to  / ' fat
+Beef shank crosscuts separable lean only trimmed to  / ' fat
+Beef rib eye small end (ribs   -  ) separable lean only
 Beef chuck under blade pot roast boneless
 Beef chuck under blade pot roast or steak boneless
 Beef chuck under blade pot roast or steak boneless
 Beef ground patties frozen
-Beef variety meats and by-products brain raw^BEEF
+Beef variety meats and by-products brain raw BEEF
 Beef variety meats and by-products brain cooked
 Beef variety meats and by-products brain cooked
-Beef variety meats and by-products heart raw^BEEF
+Beef variety meats and by-products heart raw BEEF
 Beef variety meats and by-products heart cooked
-Beef variety meats and by-products kidneys raw^BEEF
+Beef variety meats and by-products kidneys raw BEEF
 Beef variety meats and by-products kidneys cooked
-Beef variety meats and by-products liver raw^BEEF
+Beef variety meats and by-products liver raw BEEF
 Beef variety meats and by-products liver cooked
 Beef variety meats and by-products liver cooked
-Beef variety meats and by-products lungs raw^BEEF
+Beef variety meats and by-products lungs raw BEEF
 Beef variety meats and by-products lungs cooked
-Beef variety meats and by-products mechanically separated beef raw^BEEF
-Beef variety meats and by-products pancreas raw^BEEF
+Beef variety meats and by-products mechanically separated beef raw BEEF
+Beef variety meats and by-products pancreas raw BEEF
 Beef variety meats and by-products pancreas cooked
-Beef variety meats and by-products spleen raw^BEEF
+Beef variety meats and by-products spleen raw BEEF
 Beef variety meats and by-products spleen cooked
-Beef variety meats and by-products suet raw^BEEF
-Beef variety meats and by-products thymus raw^BEEF
+Beef variety meats and by-products suet raw BEEF
+Beef variety meats and by-products thymus raw BEEF
 Beef variety meats and by-products thymus cooked
-Beef variety meats and by-products tongue raw^BEEF
+Beef variety meats and by-products tongue raw BEEF
 Beef variety meats and by-products tongue cooked
-Beef variety meats and by-products tripe raw^BEEF
+Beef variety meats and by-products tripe raw BEEF
 Beef sandwich steaks flaked chopped
 Beef brisket flat half separable lean only
-Beef cured breakfast strips raw or unheated^BEEF
-Beef cured breakfast strips cooked^BEEF
+Beef cured breakfast strips raw or unheated BEEF
+Beef cured breakfast strips cooked BEEF
 Beef cured corned beef brisket
 Beef cured corned beef brisket
 Beef chuck under blade pot roast or steak boneless
@@ -66,12 +66,12 @@ Beef chuck under blade center steak boneless
 Beef chuck under blade center steak boneless
 Beef chuck under blade center steak boneless
 Beef chuck under blade center steak boneless
-Beef composite of trimmed retail cuts separable lean and fat trimmed to 0' fat
-Beef composite of trimmed retail cuts separable lean and fat trimmed to 0' fat
-Beef composite of trimmed retail cuts separable lean and fat trimmed to 0' fat
-Beef composite of trimmed retail cuts separable lean only trimmed to 0' fat
-Beef composite of trimmed retail cuts separable lean only trimmed to 0' fat
-Beef composite of trimmed retail cuts separable lean only trimmed to 0' fat
+Beef composite of trimmed retail cuts separable lean and fat trimmed to  ' fat
+Beef composite of trimmed retail cuts separable lean and fat trimmed to  ' fat
+Beef composite of trimmed retail cuts separable lean and fat trimmed to  ' fat
+Beef composite of trimmed retail cuts separable lean only trimmed to  ' fat
+Beef composite of trimmed retail cuts separable lean only trimmed to  ' fat
+Beef composite of trimmed retail cuts separable lean only trimmed to  ' fat
 Beef brisket whole separable lean and fat
 Beef brisket whole separable lean only
 Beef brisket flat half separable lean and fat
@@ -87,17 +87,17 @@ Beef chuck under blade pot roast boneless
 Beef chuck blade roast separable lean only
 Beef chuck under blade pot roast boneless
 Beef chuck under blade pot roast boneless
-Beef rib large end (ribs 6-9) separable lean and fat
-Beef rib large end (ribs 6-9) separable lean and fat
-Beef rib large end (ribs 6-9) separable lean only
-Beef rib large end (ribs 6-9) separable lean only
-Beef rib large end (ribs 6-9) separable lean only
-Beef rib small end (ribs 10-12) separable lean and fat
-Beef rib small end (ribs 10-12) separable lean and fat
-Beef rib small end (ribs 10-12) separable lean and fat
-Beef rib small end (ribs 10-12) separable lean only
-Beef rib small end (ribs 10-12) separable lean only
-Beef rib small end (ribs 10-12) separable lean only
+Beef rib large end (ribs  - ) separable lean and fat
+Beef rib large end (ribs  - ) separable lean and fat
+Beef rib large end (ribs  - ) separable lean only
+Beef rib large end (ribs  - ) separable lean only
+Beef rib large end (ribs  - ) separable lean only
+Beef rib small end (ribs   -  ) separable lean and fat
+Beef rib small end (ribs   -  ) separable lean and fat
+Beef rib small end (ribs   -  ) separable lean and fat
+Beef rib small end (ribs   -  ) separable lean only
+Beef rib small end (ribs   -  ) separable lean only
+Beef rib small end (ribs   -  ) separable lean only
 Beef round bottom round steak
 Beef round bottom round roast
 Beef round bottom round steak
@@ -163,15 +163,15 @@ Beef brisket flat half separable lean only
 Beef round tip round roast
 Beef round tip round roast
 Beef round tip round roast
-Beef rib eye small end (ribs 10- 12) separable lean only
+Beef rib eye small end (ribs   -   ) separable lean only
 Beef round top round steak
 Beef round top round steak
 Beef round top round steak
-Beef ground 70% lean meat / 30% fat crumbles
-Beef ground 70% lean meat / 30% fat loaf
-Beef ground 70% lean meat / 30% fat patty cooked
-Beef ground 70% lean meat / 30% fat patty
-Beef ground 70% lean meat / 30% fat raw^BEEF
+Beef ground   % lean meat /   % fat crumbles
+Beef ground   % lean meat /   % fat loaf
+Beef ground   % lean meat /   % fat patty cooked
+Beef ground   % lean meat /   % fat patty
+Beef ground   % lean meat /   % fat raw BEEF
 Beef chuck under blade center steak boneless
 Beef shoulder top blade steak boneless separable lean only
 Beef shoulder top blade steak boneless separable lean only
@@ -190,14 +190,14 @@ Beef shoulder top blade steak boneless separable lean and fat
 Beef chuck eye roast boneless America's Beef Roast
 Beef chuck eye roast boneless America's Beef Roast
 Beef chuck eye roast boneless America's Beef Roast
-Beef composite of trimmed retail cuts separable lean and fat trimmed to 1/8' fat
-Beef composite of trimmed retail cuts separable lean and fat trimmed to 1/8' fat
-Beef composite of trimmed retail cuts separable lean and fat trimmed to 1/8' fat
-Beef composite of trimmed retail cuts separable lean and fat trimmed to 1/8' fat
-Beef composite of trimmed retail cuts separable lean and fat trimmed to 1/8' fat
-Beef composite of trimmed retail cuts separable lean and fat trimmed to 1/8' fat
-Beef composite of trimmed retail cuts separable lean and fat trimmed to 1/8' fat
-Beef composite of trimmed retail cuts separable lean and fat trimmed to 1/8' fat
+Beef composite of trimmed retail cuts separable lean and fat trimmed to  / ' fat
+Beef composite of trimmed retail cuts separable lean and fat trimmed to  / ' fat
+Beef composite of trimmed retail cuts separable lean and fat trimmed to  / ' fat
+Beef composite of trimmed retail cuts separable lean and fat trimmed to  / ' fat
+Beef composite of trimmed retail cuts separable lean and fat trimmed to  / ' fat
+Beef composite of trimmed retail cuts separable lean and fat trimmed to  / ' fat
+Beef composite of trimmed retail cuts separable lean and fat trimmed to  / ' fat
+Beef composite of trimmed retail cuts separable lean and fat trimmed to  / ' fat
 Beef brisket whole separable lean and fat
 Beef brisket whole separable lean and fat
 Beef brisket flat half separable lean and fat
@@ -219,42 +219,42 @@ Beef chuck blade roast separable lean and fat
 Beef chuck eye roast boneless America's Beef Roast
 Beef chuck eye roast boneless America's Beef Roast
 Beef chuck eye roast boneless America's Beef Roast
-Beef rib whole (ribs 6-12) separable lean and fat
-Beef rib whole (ribs 6-12) separable lean and fat
-Beef rib whole (ribs 6-12) separable lean and fat
-Beef rib whole (ribs 6-12) separable lean and fat
-Beef rib whole (ribs 6-12) separable lean and fat
-Beef rib whole (ribs 6-12) separable lean and fat
-Beef rib whole (ribs 6-12) separable lean and fat
-Beef rib whole (ribs 6-12) separable lean and fat
-Beef rib whole (ribs 6-12) separable lean and fat
-Beef rib whole (ribs 6-12) separable lean and fat
-Beef rib whole (ribs 6-12) separable lean and fat
-Beef rib whole (ribs 6-12) separable lean and fat
-Beef rib large end (ribs 6-9) separable lean and fat
-Beef rib large end (ribs 6-9) separable lean and fat
-Beef rib large end (ribs 6-9) separable lean and fat
-Beef rib large end (ribs 6-9) separable lean and fat
-Beef rib large end (ribs 6-9) separable lean and fat
-Beef rib large end (ribs 6-9) separable lean and fat
-Beef rib large end (ribs 6-9) separable lean and fat
-Beef rib large end (ribs 6-9) separable lean and fat
-Beef rib large end (ribs 6-9) separable lean and fat
-Beef rib large end (ribs 6-9) separable lean and fat
-Beef rib large end (ribs 6-9) separable lean and fat
-Beef rib large end (ribs 6-9) separable lean and fat
-Beef rib small end (ribs 10-12) separable lean and fat
-Beef rib small end (ribs 10-12) separable lean and fat
-Beef rib small end (ribs 10-12) separable lean and fat
-Beef rib small end (ribs 10-12) separable lean and fat
-Beef rib small end (ribs 10-12) separable lean and fat
-Beef rib small end (ribs 10-12) separable lean and fat
-Beef rib small end (ribs 10-12) separable lean and fat
-Beef rib small end (ribs 10-12) separable lean and fat
-Beef rib small end (ribs 10-12) separable lean and fat
-Beef rib small end (ribs 10-12) separable lean and fat
-Beef rib small end (ribs 10-12) separable lean and fat
-Beef rib small end (ribs 10-12) separable lean and fat
+Beef rib whole (ribs  -  ) separable lean and fat
+Beef rib whole (ribs  -  ) separable lean and fat
+Beef rib whole (ribs  -  ) separable lean and fat
+Beef rib whole (ribs  -  ) separable lean and fat
+Beef rib whole (ribs  -  ) separable lean and fat
+Beef rib whole (ribs  -  ) separable lean and fat
+Beef rib whole (ribs  -  ) separable lean and fat
+Beef rib whole (ribs  -  ) separable lean and fat
+Beef rib whole (ribs  -  ) separable lean and fat
+Beef rib whole (ribs  -  ) separable lean and fat
+Beef rib whole (ribs  -  ) separable lean and fat
+Beef rib whole (ribs  -  ) separable lean and fat
+Beef rib large end (ribs  - ) separable lean and fat
+Beef rib large end (ribs  - ) separable lean and fat
+Beef rib large end (ribs  - ) separable lean and fat
+Beef rib large end (ribs  - ) separable lean and fat
+Beef rib large end (ribs  - ) separable lean and fat
+Beef rib large end (ribs  - ) separable lean and fat
+Beef rib large end (ribs  - ) separable lean and fat
+Beef rib large end (ribs  - ) separable lean and fat
+Beef rib large end (ribs  - ) separable lean and fat
+Beef rib large end (ribs  - ) separable lean and fat
+Beef rib large end (ribs  - ) separable lean and fat
+Beef rib large end (ribs  - ) separable lean and fat
+Beef rib small end (ribs   -  ) separable lean and fat
+Beef rib small end (ribs   -  ) separable lean and fat
+Beef rib small end (ribs   -  ) separable lean and fat
+Beef rib small end (ribs   -  ) separable lean and fat
+Beef rib small end (ribs   -  ) separable lean and fat
+Beef rib small end (ribs   -  ) separable lean and fat
+Beef rib small end (ribs   -  ) separable lean and fat
+Beef rib small end (ribs   -  ) separable lean and fat
+Beef rib small end (ribs   -  ) separable lean and fat
+Beef rib small end (ribs   -  ) separable lean and fat
+Beef rib small end (ribs   -  ) separable lean and fat
+Beef rib small end (ribs   -  ) separable lean and fat
 Beef shoulder top blade steak boneless separable lean and fat
 Beef shoulder top blade steak boneless separable lean and fat
 Beef round full cut separable lean and fat
@@ -319,7 +319,7 @@ Beef tenderloin roast separable lean and fat
 Beef tenderloin steak separable lean and fat
 Beef tenderloin steak separable lean and fat
 Beef tenderloin roast separable lean and fat
-Beef tenderloin separable lean and fat trimmed to 1/8' fat
+Beef tenderloin separable lean and fat trimmed to  / ' fat
 Beef tenderloin steak separable lean and fat
 Beef tenderloin roast separable lean and fat
 Beef top sirloin steak separable lean and fat
@@ -336,8 +336,8 @@ Beef shoulder steak boneless separable lean only
 Beef flank steak separable lean and fat
 Beef flank steak separable lean and fat
 Beef brisket flat half separable lean and fat
-Beef rib eye small end (ribs 10-12) separable lean and fat
-Beef rib eye small end (ribs 10-12) separable lean and fat
+Beef rib eye small end (ribs   -  ) separable lean and fat
+Beef rib eye small end (ribs   -  ) separable lean and fat
 Beef bottom sirloin tri-tip roast separable lean and fat
 Beef bottom sirloin tri-tip roast separable lean and fat
 Beef bottom sirloin tri-tip roast separable lean and fat
@@ -556,7 +556,7 @@ Beef plate steak boneless inside skirt
 Beef plate steak boneless inside skirt
 Beef plate steak boneless inside skirt
 Beef plate steak boneless inside skirt
-Beef ground unspecified fat content cooked^BEEF
+Beef ground unspecified fat content cooked BEEF
 Beef plate steak boneless outside skirt
 Beef plate steak boneless outside skirt
 Beef plate steak boneless outside skirt
@@ -629,11 +629,11 @@ Beef top loin petite roast boneless separable lean and fat
 Beef top loin petite roast/filet boneless separable lean and fat
 Beef top loin petite roast/filet boneless separable lean and fat
 Beef top loin petite roast/filet boneless separable lean and fat
-USDA Commodity beef patties with VPP frozen cooked^USDA COMMODITY
+USDA Commodity beef patties with VPP frozen cooked USDA COMMODITY
 USDA Commodity beef ground bulk/coarse ground frozen
-USDA Commodity beef patties (100%) frozen
-USDA Commodity beef patties with VPP frozen raw^USDA COMMODITY
-USDA Commodity beef patties (100%) frozen
+USDA Commodity beef patties (   %) frozen
+USDA Commodity beef patties with VPP frozen raw USDA COMMODITY
+USDA Commodity beef patties (   %) frozen
 USDA Commodity beef ground bulk/coarse ground
 Beef chuck mock tender steak separable lean only
 Beef chuck top blade separable lean only
@@ -657,36 +657,36 @@ Beef chuck mock tender steak separable lean and fat
 Beef chuck top blade separable lean and fat
 Beef chuck clod roast separable lean and fat
 Beef shoulder steak boneless separable lean and fat
-Beef ground 95% lean meat / 5% fat raw^BEEF
-Beef ground 95% lean meat / 5% fat patty
-Beef ground 95% lean meat / 5% fat patty
-Beef ground 95% lean meat / 5% fat crumbles
-Beef ground 95% lean meat / 5% fat loaf
-Beef ground 90% lean meat / 10% fat raw^BEEF
-Beef ground 90% lean meat / 10% fat patty
-Beef ground 90% lean meat / 10% fat patty
-Beef ground 90% lean meat / 10% fat crumbles
-Beef ground 90% lean meat / 10% fat loaf
-Beef ground 85% lean meat / 15% fat raw^BEEF
-Beef ground 85% lean meat / 15% fat patty
-Beef ground 85% lean meat / 15% fat patty
-Beef ground 85% lean meat / 15% fat crumbles
-Beef ground 85% lean meat / 15% fat loaf
-Beef ground 80% lean meat / 20% fat raw^BEEF
-Beef ground 80% lean meat / 20% fat patty
-Beef ground 80% lean meat / 20% fat patty
-Beef ground 80% lean meat / 20% fat crumbles
-Beef ground 80% lean meat / 20% fat loaf
-Beef ground 75% lean meat / 25% fat raw^BEEF
-Beef ground 75% lean meat / 25% fat patty
-Beef ground 75% lean meat / 25% fat patty
-Beef ground 75% lean meat / 25% fat crumbles
-Beef ground 75% lean meat / 25% fat loaf
-Beef rib small end (ribs 10-12) separable lean only
+Beef ground   % lean meat /  % fat raw BEEF
+Beef ground   % lean meat /  % fat patty
+Beef ground   % lean meat /  % fat patty
+Beef ground   % lean meat /  % fat crumbles
+Beef ground   % lean meat /  % fat loaf
+Beef ground   % lean meat /   % fat raw BEEF
+Beef ground   % lean meat /   % fat patty
+Beef ground   % lean meat /   % fat patty
+Beef ground   % lean meat /   % fat crumbles
+Beef ground   % lean meat /   % fat loaf
+Beef ground   % lean meat /   % fat raw BEEF
+Beef ground   % lean meat /   % fat patty
+Beef ground   % lean meat /   % fat patty
+Beef ground   % lean meat /   % fat crumbles
+Beef ground   % lean meat /   % fat loaf
+Beef ground   % lean meat /   % fat raw BEEF
+Beef ground   % lean meat /   % fat patty
+Beef ground   % lean meat /   % fat patty
+Beef ground   % lean meat /   % fat crumbles
+Beef ground   % lean meat /   % fat loaf
+Beef ground   % lean meat /   % fat raw BEEF
+Beef ground   % lean meat /   % fat patty
+Beef ground   % lean meat /   % fat patty
+Beef ground   % lean meat /   % fat crumbles
+Beef ground   % lean meat /   % fat loaf
+Beef rib small end (ribs   -  ) separable lean only
 Beef tenderloin steak separable lean only
 Beef top sirloin steak separable lean only
 Beef short loin top loin steak
-Beef rib small end (ribs 10-12) separable lean only
+Beef rib small end (ribs   -  ) separable lean only
 Beef tenderloin steak separable lean only
 Beef top sirloin steak separable lean only
 Beef short loin top loin steak
@@ -699,7 +699,7 @@ Beef brisket flat half separable lean only
 Beef brisket flat half separable lean only
 Beef round eye of round roast
 Beef round eye of round roast
-Beef rib small end (ribs 10-12) separable lean only
+Beef rib small end (ribs   -  ) separable lean only
 Beef tenderloin steak separable lean only
 Beef tenderloin steak separable lean only
 Beef chuck arm pot roast separable lean only
@@ -723,10 +723,10 @@ Beef round bottom round roast
 Beef round eye of round roast
 Beef round top round steak
 Beef round bottom round steak
-Beef rib small end (ribs 10-12) separable lean only
+Beef rib small end (ribs   -  ) separable lean only
 Beef tenderloin steak separable lean only
 Beef top sirloin steak separable lean only
-Beef rib small end (ribs 10-12) separable lean only
+Beef rib small end (ribs   -  ) separable lean only
 Beef short loin top loin steak
 Beef tenderloin steak separable lean only
 Beef top sirloin steak separable lean only
@@ -738,7 +738,7 @@ Beef brisket flat half separable lean only
 Beef round eye of round roast
 Beef round top round steak
 Beef round bottom round roast
-Beef rib small end (ribs 10-12) separable lean only
+Beef rib small end (ribs   -  ) separable lean only
 Beef variety meats and by-products tripe cooked
 Beef bottom sirloin tri-tip roast separable lean only
 Beef bottom sirloin tri-tip roast separable lean only
@@ -756,3 +756,9 @@ Beef brisket flat half separable lean and fat
 Beef brisket flat half separable lean and fat
 Beef brisket flat half separable lean and fat
 Beef
+picana
+picana
+picana
+picana
+picana
+picana

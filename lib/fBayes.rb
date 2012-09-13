@@ -2,7 +2,8 @@
 
 module FBayesDir
   def self.root
-    Gem::Specification.find_by_name("fBayes").gem_dir + "/lib/data/"
+    #Gem::Specification.find_by_name("fBayes").gem_dir + "/lib/data/"
+    Dir.pwd  + "/lib/data/"
   end
 
   def self.cdc_data
@@ -11,6 +12,10 @@ module FBayesDir
 
   def self.sr24_data
     self.root + "/sr24/data/"
+  end
+
+  def self.internal_turnk_data
+    self.root + "/internalTurnk/data/"
   end
 end
 

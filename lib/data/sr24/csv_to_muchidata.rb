@@ -69,6 +69,10 @@ class Food
       rescue TypeError
       end
 
+      name = name.gsub(/\d/,' ').gsub("^", ' ').gsub(".", '')
+
+
+
 
       @hash[number] = [name, category]
     end
@@ -96,5 +100,9 @@ end
 
 
 
+`rm ./data/baby-food`
 
 
+
+
+# CLEAN FILE FROM NUMBERS AND WEIR CHARACTERS
