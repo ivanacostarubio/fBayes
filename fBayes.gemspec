@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "fBayes"
-  s.version = "0.2.2"
+  s.version = "0.3.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ivan Acosta-Rubio"]
-  s.date = "2012-09-10"
+  s.date = "2012-11-14"
   s.description = "Naitve Bayes for Food Category classification"
   s.email = "ivan@bakedweb.net"
   s.extra_rdoc_files = [
@@ -45,6 +45,20 @@ Gem::Specification.new do |s|
     "lib/data/cdc/data/protein_foods",
     "lib/data/cdc/data/water",
     "lib/data/cdc/ruby_parser.rb",
+    "lib/data/internalTurnk/.DS_Store",
+    "lib/data/internalTurnk/classifier.rb",
+    "lib/data/internalTurnk/csv_to_data.rb",
+    "lib/data/internalTurnk/data/Beverages",
+    "lib/data/internalTurnk/data/Cereal",
+    "lib/data/internalTurnk/data/Dairy",
+    "lib/data/internalTurnk/data/Fast-foods",
+    "lib/data/internalTurnk/data/Fat,",
+    "lib/data/internalTurnk/data/Fruits",
+    "lib/data/internalTurnk/data/Grains",
+    "lib/data/internalTurnk/data/Meat",
+    "lib/data/internalTurnk/data/Unknown",
+    "lib/data/internalTurnk/data/Vegetables",
+    "lib/data/internalTurnk/results.csv",
     "lib/data/sr24/.DS_Store",
     "lib/data/sr24/FD_GROUP.csv",
     "lib/data/sr24/FD_GROUP.txt",
@@ -84,6 +98,7 @@ Gem::Specification.new do |s|
     "lib/data/sr24/rawData/sr24_doc.pdf",
     "lib/fBayes.rb",
     "lib/global_classifier.rb",
+    "spec/accuracy_spec.rb",
     "spec/clasificador_spec.rb",
     "spec/fBayes_spec.rb",
     "spec/spec_helper.rb"
