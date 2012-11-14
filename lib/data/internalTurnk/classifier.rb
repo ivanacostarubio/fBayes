@@ -1,7 +1,5 @@
-require 'classifier'
-
 puts "*" * 100
-puts "InternalTurnk CLASSIFIER:"
+puts "InternalTurnk CLASSIFIER: SUCKS"
 puts "*" * 100
 
 
@@ -12,9 +10,11 @@ class InternalTurnk
   def initialize
     @classifier = Classifier::Bayes.new 
     @home_dir = FBayesDir.internal_turnk_data
+    puts @home_dir.inspect
+
     add_categories
     train
-  end
+ end
 
   def c(word)
     @classifier.classify(word)
@@ -25,6 +25,10 @@ class InternalTurnk
   end
 
   private
+
+  def categories_path
+
+  end
 
   def add_categories
     categories_path =  Dir[ @home_dir + "*"]

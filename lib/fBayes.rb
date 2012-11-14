@@ -1,9 +1,9 @@
-
+require 'classifier'
 
 module FBayesDir
   def self.root
     #Gem::Specification.find_by_name("fBayes").gem_dir + "/lib/data/"
-    File.dirname(__FILE__) + "/lib/data/"
+    File.dirname(__FILE__) + "/data"
   end
 
   def self.cdc_data
@@ -19,5 +19,5 @@ module FBayesDir
   end
 end
 
-
+require_relative './data/internalTurnk/classifier'
 require_relative './global_classifier'
