@@ -3,7 +3,7 @@
 module FBayesDir
   def self.root
     #Gem::Specification.find_by_name("fBayes").gem_dir + "/lib/data/"
-    Dir.pwd  + "/lib/data/"
+    File.dirname(__FILE__) + "/lib/data/"
   end
 
   def self.cdc_data

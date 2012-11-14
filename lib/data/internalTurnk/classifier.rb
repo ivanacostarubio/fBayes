@@ -14,9 +14,17 @@ class InternalTurnk
     @home_dir = FBayesDir.internal_turnk_data
     add_categories
     train
-    puts @home_dir.inspect
   end
 
+  def c(word)
+    @classifier.classify(word)
+  end
+
+  def d(word)
+    @classifier.classifications(word)
+  end
+
+  private
 
   def add_categories
     categories_path =  Dir[ @home_dir + "*"]
@@ -43,13 +51,4 @@ class InternalTurnk
     puts "TOTAL SIZE: #{total_size}"
   end
 
-  def c(word)
-    @classifier.classify(word)
-  end
-
-  def d(word)
-    @classifier.classifications(word)
-  end
 end
-
-@it_classifier = InternalTurnk.new
