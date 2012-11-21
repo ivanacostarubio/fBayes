@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "fBayes"
-  s.version = "0.4.0"
+  s.version = "0.4.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ivan Acosta-Rubio"]
-  s.date = "2012-11-14"
+  s.date = "2012-11-21"
   s.description = "Naitve Bayes for Food Category classification"
   s.email = "ivan@bakedweb.net"
   s.extra_rdoc_files = [
