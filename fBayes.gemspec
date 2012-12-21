@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "fBayes"
-  s.version = "0.6.0"
+  s.version = "0.7.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ivan Acosta-Rubio"]
-  s.date = "2012-12-13"
+  s.date = "2012-12-21"
   s.description = "Naitve Bayes for Food Category classification"
   s.email = "ivan@bakedweb.net"
   s.extra_rdoc_files = [
@@ -44,6 +44,7 @@ Gem::Specification.new do |s|
     "lib/data/cdc/data/protein_foods",
     "lib/data/cdc/data/water",
     "lib/data/cdc/ruby_parser.rb",
+    "lib/data/internalTurnk/.DS_Store",
     "lib/data/internalTurnk/classifier.rb",
     "lib/data/internalTurnk/csv_to_data.rb",
     "lib/data/internalTurnk/data/Beverages",
@@ -53,7 +54,7 @@ Gem::Specification.new do |s|
     "lib/data/internalTurnk/data/Fats",
     "lib/data/internalTurnk/data/Fruits",
     "lib/data/internalTurnk/data/Grains",
-    "lib/data/internalTurnk/data/Meat",
+    "lib/data/internalTurnk/data/Protein",
     "lib/data/internalTurnk/data/Unknown",
     "lib/data/internalTurnk/data/Vegetables",
     "lib/data/internalTurnk/results.csv",
