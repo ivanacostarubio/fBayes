@@ -17,7 +17,15 @@ class InternalTurnk
  end
 
   def c(word)
-    @classifier.classify(word)
+    result = sorted_classification(word)
+    value_of_classification = result.last
+    category_of_classification = result.first
+
+    if value_of_classification <= value_of_missing_info
+      return "Unknown"
+    else
+      return category_of_classification
+    end
   end
 
   def d(word)
@@ -25,6 +33,14 @@ class InternalTurnk
   end
 
   private
+
+  def value_of_missing_info
+    -6.41
+  end
+
+  def sorted_classification(word)
+    @classifier.classifications(word).sort_by { |_key, value| value }.reverse.first
+  end
 
   def categories_path
 
